@@ -1,0 +1,509 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_3D3E8EE1_267A_E9CC_41B3_CC0122D1FC6A.source = https://www.facebook.com/PerfumeriasRouge/
+LinkBehaviour_CEC63B50_F77B_244A_41CD_78A2ED8402B0.source = https://www.facebook.com/PerfumeriasRouge/
+PopupWebFrameBehaviour_3D3E7EE1_267A_E9CC_41B4_FEEC21084099.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13138.501195313167!2d-58.42819776044923!3d-34.58834649999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca8232d08e91%3A0x9555ed53f65f5142!2sPerfumer%C3%ADas%20Rouge%20-%20Alto%20Palermo%20(CABA)!5e0!3m2!1ses-419!2sar!4v1667000972361!5m2!1ses-419!2sar
+PopupWebFrameBehaviour_C0494098_F75D_64FA_41E8_E2D19F610365.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13138.501195313167!2d-58.42819776044923!3d-34.58834649999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca8232d08e91%3A0x9555ed53f65f5142!2sPerfumer%C3%ADas%20Rouge%20-%20Alto%20Palermo%20(CABA)!5e0!3m2!1ses-419!2sar!4v1667000972361!5m2!1ses-419!2sar
+LinkBehaviour_3D3E8EE3_267A_E9CC_41C0_A62FC2549EBE.source = https://www.instagram.com/perfumeriasrouge/?hl=es-la
+LinkBehaviour_CEC47B50_F77B_244A_41E0_11B98135D98F.source = https://www.instagram.com/perfumeriasrouge/?hl=es-la
+LinkBehaviour_CEC6AB50_F77B_244A_419C_560B367CA688.source = https://www.perfumeriasrouge.com/
+LinkBehaviour_3D3EFEDF_267A_E9F4_41A5_B2F35F0B5D39.source = https://www.perfumeriasrouge.com/
+LinkBehaviour_B6E685D6_A25F_5E77_41DA_471D29FC27C4.source = https://www.perfumeriasrouge.com/Maquillaje/Accesorios-de-maquillaje
+LinkBehaviour_31929B44_2679_28D4_419E_410560A22C53.source = https://www.perfumeriasrouge.com/beneficios-y-promociones
+LinkBehaviour_31D14228_2669_785C_41BE_CF96AC6F5E12.source = https://www.perfumeriasrouge.com/beneficios-y-promociones
+LinkBehaviour_3069E65A_266A_F8FF_41B4_4FA5109A59A1.source = https://www.perfumeriasrouge.com/beneficios-y-promociones
+LinkBehaviour_B763C216_A258_D5F7_41DF_B925497637A6.source = https://www.perfumeriasrouge.com/cuidado-personal/cepillos-y-bucleras/tangle-teezer?initialMap=c,c&initialQuery=cuidado-personal/cepillos-y-bucleras&map=category-1,category-2,brand
+LinkBehaviour_B5844A0D_A1EF_55D4_41BC_358186139CB9.source = https://www.perfumeriasrouge.com/filorga?_q=filorga&map=ft
+LinkBehaviour_AE4027C3_BC24_8202_41D2_E058BEC1869D.source = https://www.perfumeriasrouge.com/flower%20kenzo?_q=FLOWER%20KENZO&map=ft
+LinkBehaviour_AD734314_BC24_8206_41E6_C95264C18968.source = https://www.perfumeriasrouge.com/linterdit?_q=Linterdit&map=ft
+LinkBehaviour_AD58C6EE_BC2D_8205_41D6_B0DAFB664614.source = https://www.perfumeriasrouge.com/linterdit?_q=Linterdit&map=ft
+LinkBehaviour_B7C097D9_A258_FA7D_41D2_19D9448F6B9B.source = https://www.perfumeriasrouge.com/maquillaje/brown-bee?initialMap=c&initialQuery=maquillaje&map=category-1,brand
+LinkBehaviour_B22B2AD3_A1EB_4A4D_41C1_40EDD22250A8.source = https://www.perfumeriasrouge.com/maquillaje/dior?initialMap=c&initialQuery=maquillaje&map=category-1,brand
+LinkBehaviour_B32D7675_A1D9_DA35_41D2_2C3CD5BE98EC.source = https://www.perfumeriasrouge.com/maquillaje/estee-lauder?initialMap=c&initialQuery=maquillaje&map=category-1,brand
+LinkBehaviour_B24AFAE7_A1DF_4A55_41CF_A9DF78ACCA34.source = https://www.perfumeriasrouge.com/maquillaje/givenchy?initialMap=c&initialQuery=maquillaje&map=category-1,brand
+LinkBehaviour_B254EDD3_A1D9_4E4D_41E1_59E847C14B6B.source = https://www.perfumeriasrouge.com/maquillaje/guerlain?initialMap=c&initialQuery=maquillaje&map=category-1,brand
+LinkBehaviour_B65899F4_A259_D634_41A2_C4118B195191.source = https://www.perfumeriasrouge.com/maquillaje/iconic-london?initialMap=c&initialQuery=maquillaje&map=category-1,brand
+LinkBehaviour_B263E55C_A1DF_3E7B_417C_E73526751F82.source = https://www.perfumeriasrouge.com/maquillaje/lancome?initialMap=c&initialQuery=maquillaje&map=category-1,brand
+LinkBehaviour_B606D9BE_A25B_5637_41DF_2CEE47EE348F.source = https://www.perfumeriasrouge.com/maquillaje/mavala?initialMap=c&initialQuery=maquillaje&map=category-1,brand
+LinkBehaviour_B24F2C62_A1D9_CE4F_41D7_3915711163AA.source = https://www.perfumeriasrouge.com/maquillaje/naj-oleari?initialMap=c&initialQuery=maquillaje&map=category-1,brand
+LinkBehaviour_B21AD6BF_A1D9_FA35_41C5_76010E533F73.source = https://www.perfumeriasrouge.com/maquillaje/pupa?initialMap=c&initialQuery=maquillaje&map=category-1,brand
+LinkBehaviour_B2D92765_A1E9_5A54_41A1_33F730749BA7.source = https://www.perfumeriasrouge.com/maquillaje/sisley?initialMap=c&initialQuery=maquillaje&map=category-1,brand
+LinkBehaviour_B1A3A053_A258_F64C_4177_8F1EB695AF6A.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/alexandre-j?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B0E8C8A4_A1E9_56CB_41DD_5DCE62509C74.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/armani?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B0FDF61D_A227_3DF5_4153_55EC0DA0382E.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/azzaro?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B1DBBD8F_A238_CED4_41A1_648516274CBB.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/burberry?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B6E66BC1_A229_4A4D_41CA_2D51F8090EBE.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/bvlgari?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B190BF37_A229_4A35_41D1_6534C6A6D3FF.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/calvin-klein?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B63FEBAD_A259_4AD4_41DE_79CE7EA2843F.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/carolina-herrera?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B18BB279_A259_5A3D_41BA_CF1C7BF3C00C.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/carolina-herrera?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B1DC79DC_A23B_D67B_418D_0EEC39FB4037.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/cartier?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B155E0F6_A227_3637_41D7_0043AC38352C.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/creed?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B6779C4E_A227_4E57_41CA_64141FD4793D.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/creed?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B0A7F14F_A1E9_7654_41D3_BC5FCF5A4D0A.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/dior?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B75E35D4_A268_FE4B_41A6_FD1DF4CF2B71.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/dior?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B77CC3B2_A259_DACF_41DF_4691645EA270.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/dolce---gabbana?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B0381245_A1E8_DA54_41E0_8C15A29DB84F.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/dolce---gabbana?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B610A7E0_A229_5A4B_41E1_F1BB5060490B.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/dsquared2?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B0E85517_A1E9_5FF5_41D2_4E441B32F441.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/givenchy?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B30AE683_A1E7_3ACD_419F_94565ACE620F.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/givenchy?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B687B930_A23B_37CB_41E4_08DC8B289464.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/gucci?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B34FEB61_A1FB_CA4D_41C5_FFB736690942.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/guerlain?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B696CFAB_A238_CADD_419D_31B8655939D5.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/guess?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B3608AFA_A1FF_CA3F_41BB_CFD801E75AC1.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/hermes?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B0C3C36A_A229_5A5F_41CB_FE09F19C9729.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/hugo-boss?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B1308354_A1EF_7A4B_41D1_65E085F7A98E.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/issey-miyake?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B1EAB783_A228_DACD_41CB_18125BF283BA.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/jean-paul-gaultier?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B1605008_A227_35DB_41DC_D162CDE821AE.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/jimmy-choo?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B1935CF3_A23F_4E4D_41D3_33CC1AA7BFA4.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/jimmy-choo?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B0B4A2C5_A1E9_7A55_41C3_028C447B2AA0.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/kenzo?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B60DA705_A22F_DBD5_41C0_CEDDA0292304.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/lalique?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B3742DD8_A1E9_4E7B_4198_9351654335A4.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/lancome?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B6B221EA_A22F_365F_41E0_E35D7FDE51A1.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/lolita-lempicka?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B1A66654_A228_FA4B_41E1_67439C1FEB1E.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/montblanc?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B1123B29_A22B_4BDC_41E0_3B179B8C443C.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/moschino?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B1CC997B_A227_D63D_41CD_3ACCB66D1BE0.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/mugler?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B468054B_A259_5E5D_41C5_0088AFDB5B16.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/narciso-rodriguez?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B76642B4_A259_3ACB_41B5_BCA47480E667.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/paco-rabanne?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B6CAC2E0_A259_FA4C_41DD_606DACB809DF.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/paco-rabanne?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B0AAA0A1_A1E9_76CD_41C3_4D3A4ECA4D51.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/ralph-lauren?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B12A8BFC_A1FB_CA3B_41DE_4AC4F49CED66.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/ralph-lauren?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B12F5680_A23B_5ACC_41B3_7991147DDFA5.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/salvatore-ferragamo?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B0C763B0_A229_FACB_41E2_EAFDFCCA2DE6.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/ted-lapidus?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B0AA85AD_A1E9_7ED5_41C5_9E63CE6DE6D2.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/tom-ford?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B342619C_A1F9_36FB_41DE_AB5B9B2E4B92.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/versace?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B052332D_A1FF_3BD5_41D9_2757CD3DBD16.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/versace?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B1822675_A229_3A35_41DE_47C7F04AD4D1.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/victorinox?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_B2DA8E45_A1FF_4A55_41E0_0B523B1EFA23.source = https://www.perfumeriasrouge.com/perfumes-y-fragancias/yves-saint-laurent?initialMap=c&initialQuery=perfumes-y-fragancias&map=category-1,brand
+LinkBehaviour_3D37EEF6_267A_E9B7_41B1_8E091BB1732B.source = https://www.perfumeriasrouge.com/sauvage-parfum-fc099600456c/p?skuId=619
+LinkBehaviour_25A038DD_318E_75B2_41A6_B9510B211A05.source = https://www.perfumeriasrouge.com/sauvage-parfum-fc099600456c/p?skuId=619
+LinkBehaviour_B5CC6A43_A1EB_4A4D_41AE_BCF7FAB60D3D.source = https://www.perfumeriasrouge.com/sets?initialMap=c&initialQuery=formato&order=OrderByReleaseDateDESC
+LinkBehaviour_B75536D6_A1D9_3A74_41C3_98D1A4C3C441.source = https://www.perfumeriasrouge.com/sets?initialMap=c&initialQuery=formato&order=OrderByReleaseDateDESC
+LinkBehaviour_B33C4719_A1E9_3BFC_41E2_83D519BD634A.source = https://www.perfumeriasrouge.com/sets?initialMap=c&initialQuery=formato&order=OrderByReleaseDateDESC
+LinkBehaviour_B1BC3685_A227_7AD5_41BB_9429367A3D7F.source = https://www.perfumeriasrouge.com/sets?initialMap=c&initialQuery=formato&order=OrderByReleaseDateDESC
+LinkBehaviour_B1A40AEB_A1D8_CA5D_41DE_85272E58B6F3.source = https://www.perfumeriasrouge.com/sets?initialMap=c&initialQuery=formato&order=OrderByReleaseDateDESC
+LinkBehaviour_B516F226_A1EF_35D7_41CA_8EE0CAE98891.source = https://www.perfumeriasrouge.com/tratamientos/biotherm?initialMap=c&initialQuery=tratamientos&map=category-1,brand
+LinkBehaviour_B5AA3F8F_A1E7_4AD5_41D1_947DF5324938.source = https://www.perfumeriasrouge.com/tratamientos/clinique?initialMap=c&initialQuery=tratamientos&map=category-1,brand
+LinkBehaviour_B28EE5FA_A1E9_FE3F_41D6_E70D7090217A.source = https://www.perfumeriasrouge.com/tratamientos/dior?initialMap=c&initialQuery=tratamientos&map=category-1,brand
+LinkBehaviour_B214EE53_A1D9_4A4D_41D6_FB876A4D6C2E.source = https://www.perfumeriasrouge.com/tratamientos/estee-lauder?initialMap=c&initialQuery=tratamientos&map=category-1,brand
+LinkBehaviour_B1C5C803_A227_D5CD_41E3_B6DA41516C35.source = https://www.perfumeriasrouge.com/tratamientos/givenchy?initialMap=c&initialQuery=tratamientos&map=category-1,brand
+LinkBehaviour_B60E1D66_A228_CE57_41D8_B97704C48A57.source = https://www.perfumeriasrouge.com/tratamientos/guerlain?initialMap=c&initialQuery=tratamientos&map=category-1,brand
+LinkBehaviour_B5778179_A1DB_363D_41CE_EC5B26512841.source = https://www.perfumeriasrouge.com/tratamientos/la-mer?initialMap=c&initialQuery=tratamientos&map=category-1,brand
+LinkBehaviour_B1F8F8C4_A227_564B_41E0_EF07B5357C7D.source = https://www.perfumeriasrouge.com/tratamientos/lancome?initialMap=c&initialQuery=tratamientos&map=category-1,brand
+LinkBehaviour_B46976E7_A269_FA55_41DA_E443440A7874.source = https://www.perfumeriasrouge.com/tratamientos/lancome?initialMap=c&initialQuery=tratamientos&map=category-1,brand
+LinkBehaviour_B580CC30_A1E9_4DCB_41C3_C28C82193E37.source = https://www.perfumeriasrouge.com/tratamientos/sisley?initialMap=c&initialQuery=tratamientos&map=category-1,brand
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_10921382_0723_6A66_4174_ECB21801D366.toolTip = Flower Kenzo \
+
+HotspotPanoramaOverlayArea_DC3A129B_CC39_9282_41DF_21446491FBF9.toolTip = Haz Clic para ver los beneficios y promociones Vigentes
+HotspotPanoramaOverlayArea_C327947B_CC29_958C_41D6_D7C053B7B28C.toolTip = Haz Clic para ver los beneficios y promociones Vigentes
+HotspotPanoramaOverlayArea_DC26BB6F_CC3A_F384_41D2_9C23F735FC7B.toolTip = Haz Clic para ver los beneficios y promociones Vigentes
+HotspotPanoramaOverlayArea_08599DD1_118E_26B7_4160_82D46660EE83.toolTip = L´Interdit Givenchy
+HotspotPanoramaOverlayArea_10F653BB_0721_A9A6_4192_82E5FFED2CDB.toolTip = L´Interdit Givenchy
+HotspotPanoramaOverlayArea_0C3CD7EE_1182_226D_41AD_A30DBED40FA1.toolTip = Sauvage Dior
+HotspotPanoramaOverlayArea_B0850AAA_A1F9_CADF_41DA_55152BDBC2BC.toolTip = Ver  Hermes en tienda
+HotspotPanoramaOverlayArea_B104E32A_A22B_5BDF_41DB_53EC98FFFD9A.toolTip = Ver  Montblanc en tienda
+HotspotPanoramaOverlayArea_B1887810_A1E8_F5CB_41C5_C63172E85640.toolTip = Ver  Sets en tienda
+HotspotPanoramaOverlayArea_B151A83B_A229_563D_41C6_2FDFC5604FDA.toolTip = Ver Alexandre J. en tienda
+HotspotPanoramaOverlayArea_B6146B8E_A228_CAD7_41DF_DFA41347F03A.toolTip = Ver Azzaro en tienda
+HotspotPanoramaOverlayArea_B2141394_A1EF_3ACB_41D5_34248D82766E.toolTip = Ver Biotherm en tienda
+HotspotPanoramaOverlayArea_B6F6B3C2_A259_7A4C_41E3_A1B27DF79B15.toolTip = Ver Brown Bee en tienda
+HotspotPanoramaOverlayArea_B10DC654_A238_FA4B_41C7_D3F509FE92E2.toolTip = Ver Burberry en tienda
+HotspotPanoramaOverlayArea_B7C9FA38_A228_CA3B_41D3_1593265A29D9.toolTip = Ver Bvlgari en tienda
+HotspotPanoramaOverlayArea_B15BBE9F_A228_CAF5_41E1_2DFE96C16C78.toolTip = Ver Calvin Klein en tienda
+HotspotPanoramaOverlayArea_B71D3223_A228_D5CD_41D0_F2F71111F0AE.toolTip = Ver Carolina Herrera en tienda
+HotspotPanoramaOverlayArea_B1743DF7_A229_4E35_41E0_3C1CB806DA89.toolTip = Ver Carolina Herrera en tienda
+HotspotPanoramaOverlayArea_B6464936_A23F_3637_41C2_8BB63F070D8D.toolTip = Ver Cartier en tienda
+HotspotPanoramaOverlayArea_B16ECBD7_A229_4A75_41DC_28932C6902C2.toolTip = Ver Chanel en tienda
+HotspotPanoramaOverlayArea_B4B37974_A22B_564B_41D5_77E2BCAEB603.toolTip = Ver Chanel en tienda
+HotspotPanoramaOverlayArea_B2FBF5E9_A1E8_FE5D_419A_2C7119128F8F.toolTip = Ver Clinique en tienda
+HotspotPanoramaOverlayArea_B1604DA5_A22B_4ED5_41C5_7AF43D4A2B73.toolTip = Ver Creed en tienda
+HotspotPanoramaOverlayArea_B65ED4A4_A229_3ECB_419C_C2EEBB4252FA.toolTip = Ver Creed en tienda
+HotspotPanoramaOverlayArea_B35C8565_A1EB_DE54_41A6_801418FFE26F.toolTip = Ver Dior en tienda
+HotspotPanoramaOverlayArea_B0A4814F_A1E9_7654_41DD_220A94100152.toolTip = Ver Dior en tienda
+HotspotPanoramaOverlayArea_11998740_0721_6AE3_4184_03FAB0316748.toolTip = Ver Dior en tienda
+HotspotPanoramaOverlayArea_B75D55D4_A268_FE4B_41CE_15B9B652DD77.toolTip = Ver Dior en tienda
+HotspotPanoramaOverlayArea_B026FAF0_A1E9_4A4B_41E3_C98C083412D9.toolTip = Ver Dolce &Gabbana en tienda
+HotspotPanoramaOverlayArea_B77D23B1_A259_DACD_41B1_F0235B807306.toolTip = Ver Dolce &Gabbana en tienda
+HotspotPanoramaOverlayArea_B75B8F1C_A22B_4BF4_41D2_A9BF08EE14A1.toolTip = Ver Dsquared2 en tienda
+HotspotPanoramaOverlayArea_B25B70EC_A1D9_365B_41D0_DCEF7F260B41.toolTip = Ver Estee Lauder en tienda
+HotspotPanoramaOverlayArea_B2D12B02_A1D9_4BCF_41E2_111BDE4DF072.toolTip = Ver Estee Lauder en tienda
+HotspotPanoramaOverlayArea_B281B0CC_A1E8_D654_41BF_6AD5DFD7AD91.toolTip = Ver Filorga en tienda
+HotspotPanoramaOverlayArea_B0ADCEAF_A1E9_CAD5_41DB_A63E07288E23.toolTip = Ver Giorgio Armani en tienda
+HotspotPanoramaOverlayArea_B3D1B8B1_A1E9_D6CC_41CC_F6F9CC2CF623.toolTip = Ver Givenchy en tienda
+HotspotPanoramaOverlayArea_B0FA01A0_A227_D6CB_41DF_00470E92F4FF.toolTip = Ver Givenchy en tienda
+HotspotPanoramaOverlayArea_B30AD683_A1E7_3ACD_41DB_907E3C90F1CD.toolTip = Ver Givenchy en tienda
+HotspotPanoramaOverlayArea_B30DA010_A1DF_D5CC_41CC_41B005F790A9.toolTip = Ver Givenchy en tienda
+HotspotPanoramaOverlayArea_B6A1E7FF_A238_DA35_41C3_8D9AED59DD43.toolTip = Ver Gucci en tienda
+HotspotPanoramaOverlayArea_B34FCB61_A1FB_CA4D_41E2_5DEA929A995D.toolTip = Ver Guerlain en tienda
+HotspotPanoramaOverlayArea_B3179E1C_A1D8_CDF4_41E0_824CE5CD49EA.toolTip = Ver Guerlain en tienda
+HotspotPanoramaOverlayArea_B0F14A1F_A227_55F5_41B1_C97954A7ABA9.toolTip = Ver Guerlain en tienda
+HotspotPanoramaOverlayArea_B6026F3B_A238_CA3D_41D1_526D72E00F9C.toolTip = Ver Guess en tienda
+HotspotPanoramaOverlayArea_B0536065_A1F9_D655_41C9_A459A94A7437.toolTip = Ver Hermes en tienda
+HotspotPanoramaOverlayArea_B1D0A259_A22B_3A7D_41E2_C5B5A0E76B07.toolTip = Ver Hugo Boss en tienda
+HotspotPanoramaOverlayArea_B10AFEE0_A259_4A4B_41E4_3A1755D4F357.toolTip = Ver Iconic London en tienda
+HotspotPanoramaOverlayArea_B1053C89_A1E9_CEDD_41D2_0A400824A823.toolTip = Ver Issy Miyake en tienda
+HotspotPanoramaOverlayArea_B6F32D61_A229_4E4D_41DF_99985A76F6B3.toolTip = Ver Jean Paul Gaultier en tienda
+HotspotPanoramaOverlayArea_B185BF5F_A22B_4A74_41DD_DC7D9305AA2E.toolTip = Ver Jimmy Choo en tienda
+HotspotPanoramaOverlayArea_B0B0725F_A238_DA75_41E2_FFC4093CDB36.toolTip = Ver Jimmy Choo en tienda
+HotspotPanoramaOverlayArea_B0B642C5_A1E9_7A55_41DC_D36422460CFC.toolTip = Ver Kenzo en tienda
+HotspotPanoramaOverlayArea_B27BCB4C_A1DB_CA5B_41D5_89CB4B1C012B.toolTip = Ver La Mer en tienda
+HotspotPanoramaOverlayArea_B6DC36D0_A228_FA4B_41D6_984CE39465C2.toolTip = Ver Lalique en tienda
+HotspotPanoramaOverlayArea_B3085BA3_A1DF_4ACC_41D4_5A3429453DB5.toolTip = Ver Lancome en tienda
+HotspotPanoramaOverlayArea_B7160D66_A269_4E57_41A7_368C382659A4.toolTip = Ver Lancome en tienda
+HotspotPanoramaOverlayArea_B372AB15_A1EF_4BF4_41E1_22797840B71E.toolTip = Ver Lancome en tienda
+HotspotPanoramaOverlayArea_B2EC4D97_A1D8_CEF5_41DC_5E84EAF607C9.toolTip = Ver Lancome en tienda
+HotspotPanoramaOverlayArea_B717DA47_A228_CA55_41DD_D450D82F4888.toolTip = Ver Lolita Lempicka en tienda
+HotspotPanoramaOverlayArea_B1560BCF_A25B_CA54_41CB_11297ED1A992.toolTip = Ver Mavala en tienda
+HotspotPanoramaOverlayArea_B1A2CEA3_A229_4ACC_41BB_118A75E30DA2.toolTip = Ver Moschino en tienda
+HotspotPanoramaOverlayArea_B1721281_A229_FACD_415B_23B2BD99DD73.toolTip = Ver Mugler en tienda
+HotspotPanoramaOverlayArea_B2F07371_A1D9_5A4D_41E3_76BCEEDAD632.toolTip = Ver Naj Oleari  en tienda
+HotspotPanoramaOverlayArea_B17DAEF3_A229_4A4D_41D6_6981AA43AAE9.toolTip = Ver Narciso Rodriguez en tienda
+HotspotPanoramaOverlayArea_B7A06E8D_A22B_4AD4_41DE_355A4C5C6A6C.toolTip = Ver Paco Rabanne en tienda
+HotspotPanoramaOverlayArea_B42AFEF2_A22B_4A4F_4185_4E28C701C7A5.toolTip = Ver Paco Rabanne en tienda
+HotspotPanoramaOverlayArea_B21AC6BE_A1D9_FA37_41DD_F0348941273A.toolTip = Ver Pupa en tienda
+HotspotPanoramaOverlayArea_B0AC40A1_A1E9_76CD_41D5_3FD802DA8CDE.toolTip = Ver Ralph Laurenen tienda
+HotspotPanoramaOverlayArea_B1D6088D_A23F_56D5_41C6_153EE561C9A3.toolTip = Ver Salvatore Ferragamo en tienda
+HotspotPanoramaOverlayArea_B35ECDD7_A1E9_CE74_41B5_23FE75E74109.toolTip = Ver Sets en tienda
+HotspotPanoramaOverlayArea_B581AC30_A1E9_4DCB_419C_A143FCD8C32E.toolTip = Ver Sisley en tienda
+HotspotPanoramaOverlayArea_B3BD89CC_A1E9_D654_41C2_55A4A552BE47.toolTip = Ver Sisley en tienda
+HotspotPanoramaOverlayArea_B6EE8E71_A258_CA4D_41B8_A4E0D1387AFB.toolTip = Ver Tangle Teezer en tienda
+HotspotPanoramaOverlayArea_B7990109_A22B_77DD_41C0_5AE84BAAE075.toolTip = Ver Ted Lapicus en tienda
+HotspotPanoramaOverlayArea_B0ABA5AD_A1E9_7ED5_41C2_3593547C5953.toolTip = Ver Tom Ford en tienda
+HotspotPanoramaOverlayArea_B156751E_A23B_7FF4_41DB_1FD7D46AF95D.toolTip = Ver Tommy Hilfiger en tienda
+HotspotPanoramaOverlayArea_B01F78BE_A1F9_3637_41E4_058B4550D89B.toolTip = Ver Versace en tienda
+HotspotPanoramaOverlayArea_B0DE3539_A1F9_3E3D_41D3_8DB071FB6D28.toolTip = Ver Versace en tienda
+HotspotPanoramaOverlayArea_B13A87B0_A229_3ACB_41B5_3D83D6360AEA.toolTip = Ver Victorinox en tienda
+HotspotPanoramaOverlayArea_B12AEBFB_A1FB_CA3C_41DB_BFE1C40A6114.toolTip = Ver Yves Saint Laurent en tienda
+HotspotPanoramaOverlayArea_B1E4132F_A25F_3BD5_41D6_26939253C0A0.toolTip = Ver accesorios de maquillaje en tienda
+HotspotPanoramaOverlayArea_AE67A22D_A1DB_55D5_41DC_6A0F10FAFB8C.toolTip = Ver en tienda
+
+## Media
+
+### Audio
+audiores_0F7E5ACA_26B9_29DF_41B4_C81445CE94F6.mp3Url = media/audio_003B4AF9_26B9_29BC_41B4_011461EA65FA_es.mp3
+
+### Título
+panorama_1FCC81EB_14F6_CEFD_419A_EB3C796840F8.label = ALEXANDRE .J-CREED-MUGLER-AZZARO
+panorama_1FCCA317_14F5_3355_41B0_A51C7FD381B9.label = ARMANI-TOM FORD-DIOR 3
+panorama_1FCCE346_14F2_D337_41AD_2A5853AEF4DE.label = BIOTHERM
+panorama_E1B68D06_F1BB_DCD8_41D9_36F2A1FFB70A.label = BROWN BEE- NEW IN
+panorama_1FCC9A98_14F6_DD5C_41AB_DD98D11D2A88.label = BURBERRY-CALVIN KLEIN-BOSS-MONTBLANC-JIMMY CHOO
+panorama_F9AF131A_E9D4_5238_419A_1700E39AD0AE.label = CAROLINA HERRERA-PACO RABANNE-NARCISO RODRIGUEZ
+panorama_1FCC9651_14F6_F52D_4196_94E3723D9389.label = CHANEL-BVLGARI-JEAN PAUL GAULTIER-MOSCHINO-FERRAGAMO-CARTIER-GUCCI-
+panorama_1FCCFF18_14F2_D35C_41A1_2AD390FAD306.label = CLINIQUE
+panorama_1FD98377_1182_E27B_41A9_8B22AE3FAC19.label = Cartel entrada
+panorama_FE36AC80_F188_5DD8_41EA_738F133F3B98.label = DIOR
+panorama_1FCF7EF9_14F5_72DC_41B4_9E2253CC58D5.label = DIOR 2
+album_0075FDB4_15D7_BA06_41A1_E1D556EADE76_0.label = Diseño-sin-título
+panorama_1FCDA25F_14F7_4DD5_41B4_C2EB04B05B1D.label = ESTEE LAUDER
+panorama_1FCD8B84_14F7_532B_41A9_7D83E8B95086.label = ESTEE LAUDER 2
+panorama_E770D06A_E9DC_4E18_41E1_5066C2E97A8A.label = Entrada principal
+panorama_1FCCC6E4_14F5_32F4_41AD_2ECA2222366D.label = FILORGA
+panorama_FB9E9DAF_F6E5_3CD5_41EE_D11006C8F413.label = GIVENCHI PERFUME
+panorama_1EA7B2BB_1182_E2EA_4157_062B9D513539.label = GIVENCHY
+panorama_1E63F798_1186_62B5_41A9_BCC8BFA81D22.label = GIVENCHY 2
+panorama_1FCFB790_14F5_D32C_41AD_30A03F8B1AE1.label = GIVENCHY- KENZO-GUERLAIN 3-RALPH LAUREN - IVE SAINT LAURENT
+panorama_1E3D2CBC_1182_66EE_4164_5AFCE255AB08.label = GUERLAIN
+panorama_1F7B650E_1182_67AD_4198_EA9E2D095FCC.label = GUERLAIN 2
+panorama_E1D2A684_F187_CDDF_41D8_088539B106AC.label = GUERLAIN 4
+panorama_1F3E196B_1186_2E6B_41B0_B92AFD691581.label = HALL
+panorama_1FCF9BF5_14F5_F2D5_41B2_EE01CF201AF6.label = HERMES- VERSACE
+panorama_1F6D9F7C_1182_626E_41A3_4F2605B44ED6.label = ISSY MIYAKE- D&G - LANCOME  3
+panorama_1FCC2EB9_14F7_755C_41A2_C6A8E063FBC1.label = LA MER
+panorama_1EFA8145_1186_1F9F_41AD_8BA8C8AD8553.label = LANCOME
+panorama_00CD1E1A_1182_25AA_41A9_A262CA5940FB.label = LANCOME
+panorama_1E627002_1186_3D9A_41A3_D01B9707BA66.label = LANCOME 2
+panorama_1FCFFDF9_14F5_56DC_41A6_173CF8714CD2.label = MAVALA-TANGLE TEEZER
+panorama_FFA4D4F3_F189_CD39_41DB_5342BD15BCC1.label = PUPA - NAJ OLEARI
+panorama_1FCFE4D5_14F5_56D5_41A2_A018DD3A0601.label = RECEPCION
+panorama_08C56724_06EF_AAA3_4141_5C1B1307C0C0.label = SILLON
+panorama_1FCD52BF_14F3_4D55_41AB_C7660E9EDF72.label = SISLEY
+panorama_1FCD36D6_14F3_52D7_41AF_6B270B165943.label = SISLEY 2
+panorama_1FCCAED1_14F7_352C_418B_762A47BE21D8.label = TOMMY HILFIGER-GUESS-LAUQUE-LOLITA LEMPICKA- DEQUEARED 2 - TED LAPICUS-VICTORINOX
+panorama_E6601A1E_E9DC_3238_41DF_5116B3D7E6C6.label = Vitrina exterior
+video_A5F29F64_A83D_113C_41B3_62CDEB7C4CB3.label = versace_AdobeExpress
+video_A4168752_A83D_3114_41D2_0058F65E603E.label = versace_horizontal_AdobeExpress
+album_0075FDB4_15D7_BA06_41A1_E1D556EADE76.label = Álbum de Fotos Diseño-sin-título
+
+### Video
+videolevel_3C4C960A_2CF9_9508_41BD_328E7CBEC3C3.url = media/video_A4168752_A83D_3114_41D2_0058F65E603E_es.mp4
+videolevel_3C4C960A_2CF9_9508_41BD_328E7CBEC3C3.posterURL = media/video_A4168752_A83D_3114_41D2_0058F65E603E_poster_es.jpg
+videolevel_3C4DD5B7_2CF9_9718_4194_5D7E4649C41B.url = media/video_A5F29F64_A83D_113C_41B3_62CDEB7C4CB3_es.mp4
+videolevel_3C4DD5B7_2CF9_9718_4194_5D7E4649C41B.posterURL = media/video_A5F29F64_A83D_113C_41B3_62CDEB7C4CB3_poster_es.jpg
+
+## Menú VR
+
+### Texto
+MenuItem_3D78FA90_2CF9_9D1C_41C3_3DA0B9811C0C.label = ALEXANDRE .J-CREED-MUGLER-AZZARO
+MenuItem_3D7A2A8F_2CF9_9D09_41A4_53AFDCD17B32.label = ARMANI-TOM FORD-DIOR 3
+MenuItem_3D7A1A8F_2CF9_9D09_41BA_E5EA1CE18B4C.label = BIOTHERM
+MenuItem_3D79DA8F_2CF9_9D09_41A3_45F8A39D3C8B.label = BROWN BEE- NEW IN
+MenuItem_3D7ACA8F_2CF9_9D09_41B2_DFD31E5E2FAE.label = BURBERRY-CALVIN KLEIN-BOSS-MONTBLANC-JIMMY CHOO
+MenuItem_3D7A0A8F_2CF9_9D09_41AE_08BEAC1026E2.label = CAROLINA HERRERA-PACO RABANNE-NARCISO RODRIGUEZ
+MenuItem_3D7BBA8F_2CF9_9D09_41C3_82AEA0C7AD01.label = CHANEL-BVLGARI-JEAN PAUL GAULTIER-MOSCHINO-FERRAGAMO-CARTIER-GUCCI-
+MenuItem_3D7BAA8F_2CF9_9D09_4188_36D6D4FEAA14.label = CLINIQUE
+MenuItem_3D7A5A8F_2CF9_9D09_4182_37E039100AC6.label = Cartel entrada
+MenuItem_3D79EA8F_2CF9_9D09_41C5_B8A7AD1207F6.label = DIOR
+MenuItem_3D798A90_2CF9_9D17_41A5_268D600B6A2A.label = DIOR 2
+MenuItem_3D794A8F_2CF9_9D09_41C0_0C69FC7F1317.label = ESTEE LAUDER
+MenuItem_3D79BA90_2CF9_9D17_41A8_D256B725B6B5.label = ESTEE LAUDER 2
+MenuItem_3D788A95_2CF9_9D19_41B6_4E7845EC8FB2.label = Entrada principal
+MenuItem_3D7AAA8F_2CF9_9D09_41C0_7F3D4BE834DA.label = FILORGA
+MenuItem_3D781A90_2CF9_9D17_41B2_C4AA1C4DF1B8.label = GIVENCHI PERFUME
+MenuItem_3D78AA95_2CF9_9D19_4185_837C4B70AE93.label = GIVENCHY
+MenuItem_3D7A6A8F_2CF9_9D09_41A3_2A9F0D60BCFE.label = GIVENCHY 2
+MenuItem_3D7ABA8F_2CF9_9D09_41BE_2E3B9908A3CF.label = GIVENCHY- KENZO-GUERLAIN 3-RALPH LAUREN - IVE SAINT LAURENT
+MenuItem_3D79AA90_2CF9_9D17_41C3_1917C0721557.label = GUERLAIN
+MenuItem_3D783A90_2CF9_9D17_41BA_C1824A4E9127.label = GUERLAIN 2
+MenuItem_3D799A90_2CF9_9D17_41B1_B8ED01BEADFC.label = GUERLAIN 4
+MenuItem_3D795A8F_2CF9_9D09_41BD_82E8F36D1A97.label = HALL
+MenuItem_3D791A8F_2CF9_9D09_41BC_F92D7E04A6AD.label = HERMES- VERSACE
+MenuItem_3D780A90_2CF9_9D17_41C4_9C9BC0E4784F.label = ISSY MIYAKE- D&G - LANCOME  3
+MenuItem_3D784A90_2CF9_9D17_41BC_A8E54C555EF7.label = LA MER
+MenuItem_3D7ADA8F_2CF9_9D09_41B0_1ADE400F8A13.label = LANCOME
+MenuItem_3D7BCA8E_2CF9_9D08_41BF_064DCA1FE75C.label = LANCOME
+MenuItem_3D7A4A8F_2CF9_9D09_41BA_D59692A6E40D.label = LANCOME 2
+MenuItem_3D787A90_2CF9_9D17_41B5_9CE6D99A0B86.label = MAVALA-TANGLE TEEZER
+Menu_04191AE1_153D_32EC_41A3_67C6AD1E0A95.label = Media
+MenuItem_3D78BA95_2CF9_9D19_41C0_381EA6051A50.label = PUPA - NAJ OLEARI
+MenuItem_3D7B9A8F_2CF9_9D09_41C0_2E66A944CD7E.label = RECEPCION
+MenuItem_3D7A8A8F_2CF9_9D09_41B5_6A160C6093E0.label = SILLON
+MenuItem_3D79CA90_2CF9_9D17_41B9_D521E9699758.label = SISLEY
+MenuItem_3D785A90_2CF9_9D17_41C1_3762FEFA335D.label = SISLEY 2
+MenuItem_3D792A8F_2CF9_9D09_41C0_E1466D96209D.label = TOMMY HILFIGER-GUESS-LAUQUE-LOLITA LEMPICKA- DEQUEARED 2 - TED LAPICUS-VICTORINOX
+MenuItem_3D7AFA8F_2CF9_9D09_41B9_5E438D44FD0B.label = Vitrina exterior
+
+## Skin
+
+### Botón
+Button_C0F2E670_F77A_EC4A_41E1_D80B1552BF46_mobile.label = Alexandre. J
+Button_C0F2E670_F77A_EC4A_41E1_D80B1552BF46.label = Alexandre. J
+Button_C0F23670_F77A_EC4A_41C5_AC8333C7456E_mobile.label = Azzaro
+Button_C0F23670_F77A_EC4A_41C5_AC8333C7456E.label = Azzaro
+Button_C0CEB6B1_F77A_ECCD_41C8_28FEAA503C7C.label = Biotherm
+Button_C0CEB6B1_F77A_ECCD_41C8_28FEAA503C7C_mobile.label = Biotherm
+Button_C0CFC6B3_F77A_ECCE_41E2_F6F02B5CD5C3_mobile.label = Brown Bee
+Button_C0F036A1_F77A_ECCA_41D8_051A13725C94_mobile.label = Brown Bee
+Button_C0CFC6B3_F77A_ECCE_41E2_F6F02B5CD5C3.label = Brown Bee
+Button_C0F036A1_F77A_ECCA_41D8_051A13725C94.label = Brown Bee
+Button_C0F3F680_F77A_ECCA_41EC_C929B9B7439A_mobile.label = Burberry
+Button_C0F3F680_F77A_ECCA_41EC_C929B9B7439A.label = Burberry
+Button_C0F37670_F77A_EC4A_41E2_8B26BAFD6773_mobile.label = Bvlgari
+Button_C0F37670_F77A_EC4A_41E2_8B26BAFD6773.label = Bvlgari
+Button_C0F3E680_F77A_ECCA_41EA_C4DF4AEC3850.label = Calvin Klein
+Button_C0F3E680_F77A_ECCA_41EA_C4DF4AEC3850_mobile.label = Calvin Klein
+Button_C0F52670_F77A_EC4A_4193_C1FBF4799DDA_mobile.label = Carolina Herrera
+Button_C0F52670_F77A_EC4A_4193_C1FBF4799DDA.label = Carolina Herrera
+Button_C0F21680_F77A_ECCA_41C5_D7EC710E1ED3_mobile.label = Cartier
+Button_C0F21680_F77A_ECCA_41C5_D7EC710E1ED3.label = Cartier
+Button_C0F20670_F77A_EC4A_41EB_057B1DA04E73.label = Chanel
+Button_C0F20670_F77A_EC4A_41EB_057B1DA04E73_mobile.label = Chanel
+Button_C0F146A2_F77A_ECCE_41DD_C72A37F9C030_mobile.label = Clinique
+Button_C0F146A2_F77A_ECCE_41DD_C72A37F9C030.label = Clinique
+Button_C0F1B691_F77A_ECCA_41CF_8F36D847C514.label = Clinique
+Button_C0F1B691_F77A_ECCA_41CF_8F36D847C514_mobile.label = Clinique
+Button_C0F25670_F77A_EC4A_41D8_836C209DC007_mobile.label = Creed
+Button_C0F25670_F77A_EC4A_41D8_836C209DC007.label = Creed
+Button_0481462B_1182_25EB_419F_66AADAF01372.pressedLabel = Destacados
+Button_0481462B_1182_25EB_419F_66AADAF01372.label = Destacados
+Button_0481462B_1182_25EB_419F_66AADAF01372_mobile.label = Destacados
+Button_C0F5565D_F77A_EC7A_41E4_6142C1180E01_mobile.label = Dior
+Button_C0F30691_F77A_ECCA_41C1_98E4D9B31495.label = Dior
+Button_C0CE86B3_F77A_ECCE_41E2_6ED2FE9D19D9_mobile.label = Dior
+Button_C0F30691_F77A_ECCA_41C1_98E4D9B31495_mobile.label = Dior
+Button_C0F5565D_F77A_EC7A_41E4_6142C1180E01.label = Dior
+Button_C0CE86B3_F77A_ECCE_41E2_6ED2FE9D19D9.label = Dior
+Button_C0F4565D_F77A_EC7A_41D4_5A0F810E3D92_mobile.label = Dolce & Gabbana
+Button_C0F4565D_F77A_EC7A_41D4_5A0F810E3D92.label = Dolce & Gabbana
+Button_C0F3B691_F77A_ECCA_41EA_E94A0603458E_mobile.label = Dsquared2
+Button_C0F3B691_F77A_ECCA_41EA_E94A0603458E.label = Dsquared2
+Button_C0CE46B3_F77A_ECCE_41E7_BEFA73BD9D48.label = Estee Lauder
+Button_C0CE46B3_F77A_ECCE_41E7_BEFA73BD9D48_mobile.label = Estee Lauder
+Button_C0F136A2_F77A_ECCE_41A3_2F71D085B606_mobile.label = Estee Lauder
+Button_C0F136A2_F77A_ECCE_41A3_2F71D085B606.label = Estee Lauder
+Button_C0CEA6B3_F77A_ECCE_41E6_61DAB330997C.label = Filorga
+Button_C0CEA6B3_F77A_ECCE_41E6_61DAB330997C_mobile.label = Filorga
+Button_076477EF_1182_626A_4198_751D38E68D52.label = Flower Kenzo
+Button_076477EF_1182_626A_4198_751D38E68D52_mobile.label = Flower Kenzo
+Button_C0F4065D_F77A_EC7A_41ED_4CC2A8286CC7.label = Giorgio Armani
+Button_C0F4065D_F77A_EC7A_41ED_4CC2A8286CC7_mobile.label = Giorgio Armani
+Button_C0F5465D_F77A_EC7A_41DA_2420E5633466.label = Givenchy
+Button_C0CCE6B3_F77A_ECCE_41E7_F74F789BC9EC.label = Givenchy
+Button_C0F146A2_F77A_ECCE_41E5_C5BDD47FBA9B.label = Givenchy
+Button_C0CCE6B3_F77A_ECCE_41E7_F74F789BC9EC_mobile.label = Givenchy
+Button_C0F5465D_F77A_EC7A_41DA_2420E5633466_mobile.label = Givenchy
+Button_C0F146A2_F77A_ECCE_41E5_C5BDD47FBA9B_mobile.label = Givenchy
+Button_C0F3F680_F77A_ECCA_41EA_34043E5AB134_mobile.label = Gucci
+Button_C0F3F680_F77A_ECCA_41EA_34043E5AB134.label = Gucci
+Button_C0F2966D_F77A_EC5A_41E7_BE13D5A58C0D.label = Guerlain
+Button_C0CF86B3_F77A_ECCE_41DD_927D0AE7C683_mobile.label = Guerlain
+Button_C0F186A2_F77A_ECCE_41EB_3DE42235C573.label = Guerlain
+Button_C0CF86B3_F77A_ECCE_41DD_927D0AE7C683.label = Guerlain
+Button_C0F2966D_F77A_EC5A_41E7_BE13D5A58C0D_mobile.label = Guerlain
+Button_C0F186A2_F77A_ECCE_41EB_3DE42235C573_mobile.label = Guerlain
+Button_C0F0D680_F77A_ECCA_41E0_7C7A079EEE37.label = Guess
+Button_C0F0D680_F77A_ECCA_41E0_7C7A079EEE37_mobile.label = Guess
+Button_C0F5E670_F77A_EC4A_41E9_C3A1191D2197.label = Hermes
+Button_C0F5E670_F77A_EC4A_41E9_C3A1191D2197_mobile.label = Hermes
+Button_C0F35680_F77A_ECCA_41D8_EB5E7B028196.label = Hugo Boss
+Button_C0F35680_F77A_ECCA_41D8_EB5E7B028196_mobile.label = Hugo Boss
+Button_C0F06691_F77A_ECCA_41E3_454D5C3B4A1F.label = Iconic London
+Button_C0F06691_F77A_ECCA_41E3_454D5C3B4A1F_mobile.label = Iconic London
+Button_C0F6865D_F77A_EC7A_41EC_89B5A65AD038.label = Issey Miyake
+Button_C0F6865D_F77A_EC7A_41EC_89B5A65AD038_mobile.label = Issey Miyake
+Button_C0F35670_F77A_EC4A_41AF_DC9188F8DC1E_mobile.label = Jean Paul Gaultier
+Button_C0F35670_F77A_EC4A_41AF_DC9188F8DC1E.label = Jean Paul Gaultier
+Button_C0F0F680_F77A_ECCA_41E7_172B13D4C1BC.label = Jimmy Choo
+Button_C0F0F680_F77A_ECCA_41E7_172B13D4C1BC_mobile.label = Jimmy Choo
+Button_C0F5265D_F77A_EC7A_41B6_336C18C8A737_mobile.label = Kenzo
+Button_C0F5265D_F77A_EC7A_41B6_336C18C8A737.label = Kenzo
+Button_C0CE26B3_F77A_ECCE_41CA_C473555D753C.label = La Mer
+Button_C0CEA6A2_F77A_ECCE_41E0_D0474EF04340.label = La Mer
+Button_C0CEA6A2_F77A_ECCE_41E0_D0474EF04340_mobile.label = La Mer
+Button_C0CE26B3_F77A_ECCE_41CA_C473555D753C_mobile.label = La Mer
+Button_C0F04680_F77A_ECCA_41C8_1FD0211B8C54_mobile.label = Lalique
+Button_C0F04680_F77A_ECCA_41C8_1FD0211B8C54.label = Lalique
+Button_C0F4265D_F77A_EC7A_41BC_CDCBC12462C0.label = Lancome
+Button_C0F4265D_F77A_EC7A_41BC_CDCBC12462C0.pressedLabel = Lancome
+Button_C0F156A2_F77A_ECCE_41BF_89B3EF69628F_mobile.label = Lancome
+Button_C0CCC6B3_F77A_ECCE_41C5_8D03DF90E0C6_mobile.label = Lancome
+Button_C0CCC6B3_F77A_ECCE_41C5_8D03DF90E0C6.label = Lancome
+Button_C0F156A2_F77A_ECCE_41BF_89B3EF69628F.label = Lancome
+Button_C0F4265D_F77A_EC7A_41BC_CDCBC12462C0_mobile.label = Lancome
+Button_C0CE46A2_F77A_ECCE_41E3_2D5493A47B62_mobile.pressedLabel = Location
+Button_C0F0C691_F77A_ECCA_41EC_B117F1AF44E4.pressedLabel = Location
+Button_C0CE56A2_F77A_ECCE_41DC_85E2FB039FD0_mobile.pressedLabel = Location
+Button_0481462B_1182_25EB_419F_66AADAF01372_mobile.pressedLabel = Location
+Button_C0F4265D_F77A_EC7A_41BC_CDCBC12462C0_mobile.pressedLabel = Location
+Button_C0F0C691_F77A_ECCA_41EC_B117F1AF44E4_mobile.pressedLabel = Location
+Button_076987EF_1182_626A_4156_8D749C9856F5_mobile.pressedLabel = Location
+Button_C0CE56A2_F77A_ECCE_41DC_85E2FB039FD0.pressedLabel = Location
+Button_C0F02680_F77A_ECCA_41E4_B4715430B681.label = Lolita Lempicka
+Button_C0F02680_F77A_ECCA_41E4_B4715430B681_mobile.label = Lolita Lempicka
+Button_076457FC_1182_626D_4188_157E8410CBF2_mobile.label = L´Interdit Givenchy
+Button_076457FC_1182_626D_4188_157E8410CBF2.label = L´Interdit Givenchy
+Button_C0F0B691_F77A_ECCA_41CC_9EA436E8B5E7.label = Maquillaje
+Button_C0F0B691_F77A_ECCA_41CC_9EA436E8B5E7_mobile.label = Maquillaje
+Button_C0F0B691_F77A_ECCA_41CC_9EA436E8B5E7.pressedLabel = Maquillaje
+Button_C0CFA6B3_F77A_ECCE_41DC_C159F56DAA54_mobile.label = Mavala
+Button_C0CFA6B3_F77A_ECCE_41DC_C159F56DAA54.label = Mavala
+Button_C0F036A2_F77A_ECCE_41CC_AD3E7D7B4A20.label = Mavala
+Button_C0F036A2_F77A_ECCE_41CC_AD3E7D7B4A20_mobile.label = Mavala
+Button_C0F31680_F77A_ECCA_41E5_FB233A449847.label = Montblanc
+Button_C0F31680_F77A_ECCA_41E5_FB233A449847_mobile.label = Montblanc
+Button_C0F2E680_F77A_ECCA_41D8_1D4E23877806.label = Moschino
+Button_C0F2E680_F77A_ECCA_41D8_1D4E23877806_mobile.label = Moschino
+Button_C0F24670_F77A_EC4A_41E3_8AB15A1C208D_mobile.label = Mugler
+Button_C0F24670_F77A_EC4A_41E3_8AB15A1C208D.label = Mugler
+Button_C0F04691_F77A_ECCA_41E4_F05DF3C3543A_mobile.label = Naj Oleari
+Button_C0F04691_F77A_ECCA_41E4_F05DF3C3543A.label = Naj Oleari
+Button_C0F166A2_F77A_ECCE_41E2_E81CEE9B1764_mobile.label = Naj Oleari
+Button_C0F166A2_F77A_ECCE_41E2_E81CEE9B1764.label = Naj Oleari
+Button_C0F51670_F77A_EC4A_41ED_F478CABF43F7.label = Narciso Rodriguez
+Button_C0F51670_F77A_EC4A_41ED_F478CABF43F7_mobile.label = Narciso Rodriguez
+Button_C0F51670_F77A_EC4A_4141_49AFAFB85C60_mobile.label = Paco Rabanne
+Button_C0F51670_F77A_EC4A_4141_49AFAFB85C60.label = Paco Rabanne
+Button_C0F9965D_F77A_EC7A_41CA_831903449491.pressedLabel = Perfumes y
+Button_C0F9965D_F77A_EC7A_41CA_831903449491.label = Perfumes y
+Button_C0F9965D_F77A_EC7A_41CA_831903449491_mobile.label = Perfumes y 
+Button_C0CFF6A2_F77A_ECCE_41E1_E4CA461322B1_mobile.label = Pupa
+Button_C0F07691_F77A_ECCA_41D8_32184D02DD28.label = Pupa
+Button_C0CFF6A2_F77A_ECCE_41E1_E4CA461322B1.label = Pupa
+Button_C0F07691_F77A_ECCA_41D8_32184D02DD28_mobile.label = Pupa
+Button_C0F2666E_F77A_EC57_41A9_C27AA155F6EC.label = Ralph Lauren
+Button_C0F2666E_F77A_EC57_41A9_C27AA155F6EC_mobile.label = Ralph Lauren
+Button_C0F2C680_F77A_ECCA_41E0_15A7601CF7B5_mobile.label = Salvatore Ferragamo
+Button_C0F2C680_F77A_ECCA_41E0_15A7601CF7B5.label = Salvatore Ferragamo
+Button_076597FC_1182_626D_41A7_95DD328DF906.label = Sauvage Dior
+Button_076597FC_1182_626D_41A7_95DD328DF906_mobile.label = Sauvage Dior
+Button_C0CE56A2_F77A_ECCE_41DC_85E2FB039FD0.label = Sisley
+Button_C0F0C691_F77A_ECCA_41EC_B117F1AF44E4_mobile.label = Sisley
+Button_C0F0C691_F77A_ECCA_41EC_B117F1AF44E4.label = Sisley
+Button_C0CE56A2_F77A_ECCE_41DC_85E2FB039FD0_mobile.label = Sisley
+Button_C0F38691_F77A_ECCA_41E3_F0C2092B17BA_mobile.label = Ted Lapidus
+Button_C0F38691_F77A_ECCA_41E3_F0C2092B17BA.label = Ted Lapidus
+Button_C0F5765D_F77A_EC7A_41CC_200D4D14993B_mobile.label = Tom Ford
+Button_C0F5765D_F77A_EC7A_41CC_200D4D14993B.label = Tom Ford
+Button_C0F30680_F77A_ECCA_41D8_F4156A579812_mobile.label = Tommy Hilfiger
+Button_C0F30680_F77A_ECCA_41D8_F4156A579812.label = Tommy Hilfiger
+Button_C0CE46A2_F77A_ECCE_41E3_2D5493A47B62.label = Tratamientos
+Button_C0CE46A2_F77A_ECCE_41E3_2D5493A47B62_mobile.label = Tratamientos
+Button_C0CE46A2_F77A_ECCE_41E3_2D5493A47B62.pressedLabel = Tratamientos
+Button_076427EF_1182_626A_41B1_7F4C07E295C4_mobile.label = Tratamientos Dior
+Button_076427EF_1182_626A_41B1_7F4C07E295C4.label = Tratamientos Dior
+Button_076987EF_1182_626A_4156_8D749C9856F5_mobile.label = Tratamientos Filorga
+Button_076987EF_1182_626A_4156_8D749C9856F5.pressedLabel = Tratamientos Filorga
+Button_076987EF_1182_626A_4156_8D749C9856F5.label = Tratamientos Filorga
+Button_238918D0_3186_F5B2_41C8_9B0ABD986C4D.label = Ver mas 
+Button_238918D0_3186_F5B2_41C8_9B0ABD986C4D_mobile.label = Ver mas 
+Button_C0F5B670_F77A_EC4A_4190_C49A6C4A6AC8.label = Versace
+Button_C0F5B670_F77A_EC4A_4190_C49A6C4A6AC8_mobile.label = Versace
+Button_C0F0F691_F77A_ECCA_41E9_8FBAA876B0F6_mobile.label = Victorinox
+Button_C0F0F691_F77A_ECCA_41E9_8FBAA876B0F6.label = Victorinox
+Button_C0F25670_F77A_EC4A_41E6_8D02A91F72FB_mobile.label = Yves Saint Laurent
+Button_C0F25670_F77A_EC4A_41E6_8D02A91F72FB.label = Yves Saint Laurent
+Button_3BA64DC2_267F_2BCF_41AE_67A9F9012E37_mobile.label = fragancias
+Button_3C942B8B_267B_285C_41C0_8DB8077D2E84.label = fragancias
+Button_3C942B8B_267B_285C_41C0_8DB8077D2E84.pressedLabel = fragancias
+Button_076A27EF_1182_626A_418C_788C7D2F86E6.label = volver
+Button_CDC017BF_F72B_EC36_41BC_D2ECE39DB499.label = volver
+Button_CDC017BF_F72B_EC36_41BC_D2ECE39DB499_mobile.label = volver
+Button_CD09B9D2_F725_244E_41E8_228AC14B584C_mobile.label = volver
+Button_076A27EF_1182_626A_418C_788C7D2F86E6_mobile.label = volver
+Button_CE32C349_F725_245A_41EC_926E137DD5C5.label = volver
+Button_CE32C349_F725_245A_41EC_926E137DD5C5_mobile.label = volver
+Button_CD09B9D2_F725_244E_41E8_228AC14B584C.label = volver
+
+### Imágen
+Image_238948D0_3186_F5B2_41AC_74070DA9B76A.url = skin/Image_238948D0_3186_F5B2_41AC_74070DA9B76A_es.png
+Image_238948D0_3186_F5B2_41AC_74070DA9B76A_mobile.url = skin/Image_238948D0_3186_F5B2_41AC_74070DA9B76A_mobile_es.png
+Image_C0442098_F75D_64FA_41EA_CAB378905170.url = skin/Image_C0442098_F75D_64FA_41EA_CAB378905170_es.png
+Image_C0442098_F75D_64FA_41EA_CAB378905170_mobile.url = skin/Image_C0442098_F75D_64FA_41EA_CAB378905170_mobile_es.png
+Image_CEC44B50_F77B_244A_41EE_84276FFC5CF2.url = skin/Image_CEC44B50_F77B_244A_41EE_84276FFC5CF2_es.png
+Image_CEC44B50_F77B_244A_41EE_84276FFC5CF2_mobile.url = skin/Image_CEC44B50_F77B_244A_41EE_84276FFC5CF2_mobile_es.png
+Image_CEC76B50_F77B_244A_41D6_028E8E65ECBF.url = skin/Image_CEC76B50_F77B_244A_41D6_028E8E65ECBF_es.png
+Image_CEC76B50_F77B_244A_41D6_028E8E65ECBF_mobile.url = skin/Image_CEC76B50_F77B_244A_41D6_028E8E65ECBF_mobile_es.png
+Image_CEC79B50_F77B_244A_41C5_1CCF721B8A00.url = skin/Image_CEC79B50_F77B_244A_41C5_1CCF721B8A00_es.png
+Image_CEC79B50_F77B_244A_41C5_1CCF721B8A00_mobile.url = skin/Image_CEC79B50_F77B_244A_41C5_1CCF721B8A00_mobile_es.png
+
+### Texto Multilínea
+HTMLText_238908D0_3186_F5B2_41C5_CB2FC5F39344.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.8300000000000045vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#bd1622;font-size:7.83vh;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.142083897158321vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;word-break:break-word;font-family:'Gotham Bold';">Dior</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.142083897158321vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;word-break:break-word;font-family:'Gotham Bold';">Sauvage Parfum</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.165087956698241vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Book';"><B>Notas de Salida:</B></SPAN><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Light';"><B> </B></SPAN><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Light';">Bergamota de Calabria y pimienta.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.17vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.165087956698241vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Book';"><B>Notas de Corazón:</B></SPAN><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Light';"><B> </B></SPAN><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Light';">Pimienta de Sichuan, lavanda, pimienta rosa, vetiver, pachulí, geranio y elemí.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.17vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.165087956698241vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Book';"><B>Notas de Fondo:</B></SPAN><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Light';"><B> </B></SPAN><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Light';">Ambroxan, cedro y ládano.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.17vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.165087956698241vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Book';"><B>tamaños disponibles:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.165087956698241vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Light';">60ml - 100ml - 200ml</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.17vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_238908D0_3186_F5B2_41C5_CB2FC5F39344_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.8300000000000045vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#bd1622;font-size:7.83vh;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.142083897158321vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;word-break:break-word;font-family:'Gotham Bold';">Dior</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.142083897158321vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;word-break:break-word;font-family:'Gotham Bold';">Sauvage Parfum</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.165087956698241vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Book';"><B>Notas de Salida:</B></SPAN><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Light';"><B> </B></SPAN><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Light';">Bergamota de Calabria y pimienta.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.17vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.165087956698241vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Book';"><B>Notas de Corazón:</B></SPAN><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Light';"><B> </B></SPAN><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Light';">Pimienta de Sichuan, lavanda, pimienta rosa, vetiver, pachulí, geranio y elemí.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.17vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.165087956698241vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Book';"><B>Notas de Fondo:</B></SPAN><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Light';"><B> </B></SPAN><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Light';">Ambroxan, cedro y ládano.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.17vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.165087956698241vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Book';"><B>tamaños disponibles:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.165087956698241vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.17vh;word-break:break-word;font-family:'Gotham Light';">60ml - 100ml - 200ml</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.17vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Tooltip
+IconButton_CE7C6E6E_F77A_DC56_4196_46A6F6B2056D.toolTip = Girar dispositivo
+IconButton_CE7C6E6E_F77A_DC56_4196_46A6F6B2056D_mobile.toolTip = Girar dispositivo
+IconButton_B7024302_F6E5_E5CE_41E3_5E812B79925A_mobile.toolTip = Mostrar Menú
+IconButton_B7024302_F6E5_E5CE_41E3_5E812B79925A.toolTip = Mostrar Menú
+IconButton_DBB4FDF2_CC67_769D_41D4_AFAC04F5D3EA.toolTip = Mute
+IconButton_DBB4FDF2_CC67_769D_41D4_AFAC04F5D3EA_mobile.toolTip = Mute
+IconButton_CE7D3E6E_F77A_DC56_41ED_1E5BE8E69E6C.toolTip = Ocultar Hotspots
+IconButton_CE7D3E6E_F77A_DC56_41ED_1E5BE8E69E6C_mobile.toolTip = Ocultar Hotspots
+IconButton_B72EAEEE_F6FA_FC56_41C8_A37B10AAE3A5_mobile.toolTip = Ocultar Menú
+IconButton_B72EAEEE_F6FA_FC56_41C8_A37B10AAE3A5.toolTip = Ocultar Menú
+IconButton_CE7BBE5E_F77A_DC76_41DF_3B471CD135B1.toolTip = Pantalla completa
+IconButton_CE7BBE5E_F77A_DC76_41DF_3B471CD135B1_mobile.toolTip = Pantalla completa
+Image_C0442098_F75D_64FA_41EA_CAB378905170.toolTip = Ubicacion
+Image_C0442098_F75D_64FA_41EA_CAB378905170_mobile.toolTip = Ubicacion
+IconButton_CE7DEE6E_F77A_DC56_41E0_D729325535FE.toolTip = Usar dispositivo Vr
+IconButton_CE7DEE6E_F77A_DC56_41E0_D729325535FE_mobile.toolTip = Usar dispositivo Vr
+Image_CEC76B50_F77B_244A_41D6_028E8E65ECBF.toolTip = Ver Facebook
+Image_CEC76B50_F77B_244A_41D6_028E8E65ECBF_mobile.toolTip = Ver Facebook
+Image_CEC44B50_F77B_244A_41EE_84276FFC5CF2_mobile.toolTip = Ver Instagram
+Image_CEC44B50_F77B_244A_41EE_84276FFC5CF2.toolTip = Ver Instagram
+Image_CEC79B50_F77B_244A_41C5_1CCF721B8A00.toolTip = Ver Tienda online
+Image_CEC79B50_F77B_244A_41C5_1CCF721B8A00_mobile.toolTip = Ver Tienda online
+
+## Tour
+
+### Descripción
+tour.description = Tienda Roughe ubicada en palermo shopping. 26/10/2022. Roberto Galicia-Kevin Jaimovich
+
+### Título
+tour.name = ROUGE 360
